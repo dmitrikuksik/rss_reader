@@ -1,1 +1,1 @@
-News reader based on parsing RSS channels.
+Desktop application for news reading based on parsing RSS channels.
